@@ -5,7 +5,7 @@ I developed this software specifically for the "Master Forge 2500-sq ft Pellet S
 ## What this does?
 
 This project acts as a communications bridge between the (what I'm calling) the action center and the stove. 
-**The "action center" can be found here: https://www.github.com/bruce-glazier/pellet**
+**The "action center" can be found here: https://github.com/bruce-glazier/pellet-action-center**
 
 It really is just a Flask app that leverages the TinyTuya library to communicate with the device and exposes that as a REST inteface.
 
